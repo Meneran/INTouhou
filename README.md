@@ -2,7 +2,11 @@
 
 This is a "Space Invaders"-like designed as an [Entity Component System](https://en.wikipedia.org/wiki/Entity_component_system).
 
+We made it as a student project in 2 weeks.
+
 You need to have [SFML](https://en.wikipedia.org/wiki/SFML) installed on your system.
+
+
 
 ## To play:
 ~~~
